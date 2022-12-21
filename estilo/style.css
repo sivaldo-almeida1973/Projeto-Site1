@@ -18,3 +18,9 @@ main{
 img.lado{
   float: right;
 }
+
+p{
+  background-color: aqua;
+  color: blue;
+}
+
